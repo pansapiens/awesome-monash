@@ -21,17 +21,18 @@ New links, fixing/removing broken links, reorganization are all welcome.
 ## Start here
 
 [My Monash](https://my.monash/) - the main portal for students and staff. Start here, search, you may get lucky.
+[Integrated Directory Service (MIDS)](https://mids.monash.edu.au/) - search for staff contact details, phone numbers, emails.
 
 
 ## Staff
 
-* [ESS](https://eservices.monash.edu.au/irj/portal/#Shell-home)
-* [myDevelopment](https://monash.csod.com/LMS/catalog/Welcome.aspx)
-* [myPlan (Performance Development)](https://monashportal.pageuppeople.com/Dock.aspx)
+* [ESS](https://eservices.monash.edu.au/irj/portal/#Shell-home) - SAP (leave requests, update contact info)
+* [myDevelopment](https://monash.csod.com/LMS/catalog/Welcome.aspx) - staff and graduate research student training portal
+* [myPlan](https://monashportal.pageuppeople.com/Dock.aspx) - Performance Development and planning
+
+## IT and printing
+
 * [eSolutions service request (Remedy)](https://servicedeskonline.onbmc.com/arsys/forms/monash-s/SRS%3AServiceRequestConsole/Default+Administrator+View/)
-
-## Printing
-
 * [Printer directory](https://printers.monash.edu/directory/Printers.aspx)
 * [PaperCut](https://web-print.monash.edu/app?) - print from the web
 
