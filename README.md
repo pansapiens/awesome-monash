@@ -27,6 +27,7 @@ New links, fixing/removing broken links, reorganization are all welcome.
 
 * [ESS](https://eservices.monash.edu.au/irj/portal/#Shell-home)
 * [myDevelopment](https://monash.csod.com/LMS/catalog/Welcome.aspx)
+* [myPlan (Performance Development)](https://monashportal.pageuppeople.com/Dock.aspx)
 * [eSolutions service request (Remedy)](https://servicedeskonline.onbmc.com/arsys/forms/monash-s/SRS%3AServiceRequestConsole/Default+Administrator+View/)
 
 ## Printing
