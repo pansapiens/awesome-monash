@@ -20,8 +20,8 @@ New links, fixing/removing broken links, reorganization are all welcome.
 
 ## Start here
 
-[My Monash](https://my.monash/) - the main portal for students and staff. Start here, search, you may get lucky.
-[Integrated Directory Service (MIDS)](https://mids.monash.edu.au/) - search for staff contact details, phone numbers, emails.
+* [My Monash](https://my.monash/) - the main portal for students and staff. Start here, search, you may get lucky.
+* [Integrated Directory Service (MIDS)](https://mids.monash.edu.au/) - search for staff contact details, phone numbers, emails.
 
 
 ## Staff
