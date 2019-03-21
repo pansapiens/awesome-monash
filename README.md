@@ -33,7 +33,8 @@ New links, fixing/removing broken links, reorganization are all welcome.
 
 ## IT and printing
 
-* [eSolutions service request (Remedy)](https://servicedeskonline.onbmc.com/arsys/forms/monash-s/SRS%3AServiceRequestConsole/Default+Administrator+View/)
+* [eSolutions Service Desk Online (IT requests)](https://servicedeskonline-myit.onbmc.com/dwp/app/#/catalog/home)
+* ~[eSolutions service request (Remedy)](https://servicedeskonline.onbmc.com/arsys/forms/monash-s/SRS%3AServiceRequestConsole/Default+Administrator+View/)~ *(old interface)*
 * [Printer directory](https://printers.monash.edu/directory/Printers.aspx)
 * [PaperCut](https://web-print.monash.edu/app?) - print from the web
 * [addhost](https://webnet.its.monash.edu/cgi-bin/addhost/register) - register the MAC address of devices for network access
