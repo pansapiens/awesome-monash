@@ -38,11 +38,13 @@ New links, fixing/removing broken links, reorganization are all welcome.
 * [Printer directory](https://printers.monash.edu/directory/Printers.aspx)
 * [PaperCut](https://web-print.monash.edu/app?) - print from the web
 * [addhost](https://webnet.its.monash.edu/cgi-bin/addhost/register) - register the MAC address of devices for network access
+* [Group Manager](https://groupadmin.monash.edu/) - manage members of groups for network file shares, etc.
 
 ## Research
+
+* [iLab login](https://monash.ilab.agilent.com/) - manage service requests for Monash Platforms, billing
 
 ### Monash eResearch Services
 
 * [NeCTAR Dashboard](https://dashboard.rc.nectar.org.au/) - Australia's (and New Zealand's !) academic cloud computing service.
 * [Data Dashboard](https://datadashboard.erc.monash.edu/#/dashboard) - apply for and monitor research data storage.
-* [iLab login](https://monash.ilab.agilent.com/) - manage service requests for Monash Platforms, billing
