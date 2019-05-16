@@ -27,7 +27,7 @@ New links, fixing/removing broken links, reorganization are all welcome.
 ## Staff
 
 * [ESS](https://eservices.monash.edu.au/irj/portal/#Shell-home) - SAP (leave requests, update contact info)
-* [myDevelopment](https://monash.csod.com/LMS/catalog/Welcome.aspx) - staff and graduate research student training portal
+* [myDevelopment](https://monash.csod.com/samldefault.aspx) - staff and graduate research student training portal
 * [myPlan](https://monashportal.pageuppeople.com/Dock.aspx) - Performance Development and planning
 * [Travel booking](https://www.intranet.monash/finance/our-services/monash-travel-page) - Corporate Travel Management (CTM), for booking domestic and international travel.
 
