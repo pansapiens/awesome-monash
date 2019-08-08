@@ -39,6 +39,7 @@ New links, fixing/removing broken links, reorganization are all welcome.
 * [PaperCut](https://web-print.monash.edu/app?) - print from the web
 * [addhost](https://webnet.its.monash.edu/cgi-bin/addhost/register) - register the MAC address of devices for network access
 * [Group Manager](https://groupadmin.monash.edu/) - manage members of groups for network file shares, etc.
+* [MoVE](https://MoVE.monash.edu/) - "Monash Virtual Environment", Citrix virtual desktops to various Windows apps.
 
 ## Research
 
