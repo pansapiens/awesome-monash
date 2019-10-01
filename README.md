@@ -30,6 +30,7 @@ New links, fixing/removing broken links, reorganization are all welcome.
 * [myDevelopment](https://monash.csod.com/samldefault.aspx) - staff and graduate research student training portal
 * [myPlan](https://monashportal.pageuppeople.com/Dock.aspx) - Performance Development and planning
 * [Travel booking](https://www.intranet.monash/finance/our-services/monash-travel-page) - Corporate Travel Management (CTM), for booking domestic and international travel.
+* [Digital Toolkit](https://www.monash.edu/digital-toolkit) - _(login required)_ Assets for web and social media, branding guidelines.
 
 ## IT and printing
 
