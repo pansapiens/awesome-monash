@@ -47,6 +47,7 @@ New links, fixing/removing broken links, reorganization are all welcome.
 
 ## Research
 
+* [myResearch](https://www.monash.edu/myresearch) - portal for recording research outputs and funding applications (Pure), ethics reviews
 * [iLab login](https://monash.ilab.agilent.com/) - manage service requests for Monash Platforms, billing
 
 ### Monash eResearch Services
