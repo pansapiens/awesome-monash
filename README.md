@@ -16,7 +16,9 @@ New links, fixing/removing broken links, reorganization are all welcome.
 - [Awesome Monash](#awesome-monash)
     - [Start here](#start-here)
     - [Staff](#staff)
-    - [Printing](#printing)
+    - [IT & Printing](#it-and-printing)
+    - [Research](#research)
+      - [Monash eResearch Services](#monash-eresearch-services)
 
 ## Start here
 
