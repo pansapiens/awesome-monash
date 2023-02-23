@@ -55,3 +55,6 @@ New links, fixing/removing broken links, reorganization are all welcome.
 * [NeCTAR Dashboard](https://dashboard.rc.nectar.org.au/) - Australia's (and New Zealand's !) academic cloud computing service.
 * [Data Dashboard](https://datadashboard.erc.monash.edu/#/dashboard) - apply for and monitor research data storage.
 * [Monash HPC access (Karaage)](https://hpc.erc.monash.edu.au/karaage/)
+
+### Branding
+* [https://numbats.github.io/monash/](The monash R package) with RMarkdown templates, logos, colour scheme.
