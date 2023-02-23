@@ -57,4 +57,4 @@ New links, fixing/removing broken links, reorganization are all welcome.
 * [Monash HPC access (Karaage)](https://hpc.erc.monash.edu.au/karaage/)
 
 ### Branding
-* [https://numbats.github.io/monash/](The monash R package) with RMarkdown templates, logos, colour scheme.
+* [The monash R package](https://numbats.github.io/monash/) with RMarkdown templates, logos, colour scheme.
