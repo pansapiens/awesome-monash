@@ -49,6 +49,7 @@ New links, fixing/removing broken links, reorganization are all welcome.
 
 * [myResearch](https://www.monash.edu/myresearch) - portal for recording research outputs and funding applications (Pure), ethics reviews
 * [iLab login](https://monash.ilab.agilent.com/) - manage service requests for Monash Platforms, billing
+* [Supervisor Connect](https://supervisorconnect.med.monash.edu/research-projects) - find a PhD or Honours project
 
 ### Monash eResearch Services
 
