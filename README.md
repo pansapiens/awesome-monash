@@ -57,5 +57,6 @@ New links, fixing/removing broken links, reorganization are all welcome.
 * [Data Dashboard](https://datadashboard.erc.monash.edu/#/dashboard) - apply for and monitor research data storage.
 * [Monash HPC access (Karaage)](https://hpc.erc.monash.edu.au/karaage/)
 
-### Branding
+### Branding & media assets
 * [The monash R package](https://numbats.github.io/monash/) with RMarkdown templates, logos, colour scheme.
+* [monash-quarto](https://github.com/quarto-monash) - Quarto templates for thesis and presentation slides, etc
